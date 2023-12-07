@@ -119,5 +119,5 @@ resultado = step_function(soma_ponderada) # Aplica a função de ativação degr
 
 if resultado == 1: # Se o resultado for igual a 1 vai ser printado o valor 1
     print("1")
-else: # Senão for igual a 1 vai ser printado -1
+else: # Senão vai ser printado 0
     print("0")
